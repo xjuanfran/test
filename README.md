@@ -2,7 +2,7 @@
 
 ## 🧠 Programming: El superpoder de crear
 
-[![Programming Superpower](https://mi-imagen-o-thumbnail.png)](https://medium.com/4geeksacademy/programming-el-superpoder-de-crear-33527114abbf)
+![Programming GIF](https://miro.medium.com/v2/resize:fit:1000/1*1Cz76SaTMyMVjzbhigz4Gg.gif)
 
-💡 *“Programar es como un superpoder: te permite convertir ideas en realidad.”*  
-— 4Geeks Academy
+💡 *“Programar es como un superpoder: te permite transformar ideas en soluciones reales mediante la lógica y la creatividad.”*  
+— Inspirado en 4Geeks Academy
